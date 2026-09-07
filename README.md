@@ -1,27 +1,12 @@
-﻿# 🎵 SpotiriApp - Réplica de Spotify en React Native
+﻿# 🎵 SpotiriApp 
 
-Bienvenido a **SpotiriApp**, una réplica móvil moderna y de alto rendimiento de la interfaz de usuario de **Spotify**, desarrollada para el **Taller Práctico de la Semana 2** de la **Universidad de La Guajira**.
-
-La aplicación está construida utilizando **React Native** con el sistema de estilos de utilidad **NativeWind (Tailwind CSS)**, prescindiendo por completo de `StyleSheet.create()`, e implementa una arquitectura fluida de **3 pantallas completas** (*Inicio*, *Reproductor*, *Perfil*).
+Bienvenido a **SpotiriApp**
 
 ---
 
 ## 📱 Captura de Pantalla de la Aplicación
 
 ![Captura de SpotiriApp](./screenshot.png)
-
----
-
-## 🎯 Cumplimiento de Requisitos Técnicos del Taller
-
-| Requisito | Estado | Implementación en SpotiriApp |
-| :--- | :---: | :--- |
-| **Contenedor Principal** | ✅ Cumplido | Uso de `SafeAreaView` para protección de barra de estado y `ScrollView` responsivos con Flexbox en todas las vistas. |
-| **Al menos 1 `<TextInput>` funcional** | ✅ Cumplido | Barra de búsqueda interactiva en `HomeScreen` con placeholder, icono, limpiador rápido y filtrado reactivo de canciones en tiempo real. |
-| **Al menos 2 `<Image>`** | ✅ Cumplido | Portadas remotas de alta definición vía CDN/Unsplash, avatar circular con borde característico `#1DB954` y banner panorámico en `ProfileScreen`. |
-| **Al menos 3 `<Pressable>` interactivos** | ✅ Cumplido | Chips de filtro de categorías, botón Play/Pause con alternancia de estado e iconos, botón de Me Gusta (💚/🤍), navegación por pestañas y botón contador de Likes interactivo. |
-| **Estilos NativeWind puros** | ✅ Cumplido | **Sin usar `StyleSheet.create()`**. 100% clases de utilidad Tailwind CSS (`className="..."`). |
-| **Entregable Semanal** | ✅ Cumplido | Repositorio documentado con `screenshot.png` integrado en el `README.md`. |
 
 ---
 
@@ -70,32 +55,6 @@ colors: {
   spotifyDarkGray: '#181818',
   spotifyLightGray: '#282828',
 }
-```
-
----
-
-## 🚀 Cómo Ejecutar el Proyecto Localmente
-
-1. **Clonar el repositorio:**
-   ```bash
-   git clone <URL_DE_TU_REPOSITORIO>
-   cd SpotiriApp
-   ```
-
-2. **Instalar dependencias:**
-   ```bash
-   npm install
-   ```
-
-3. **Iniciar el servidor de desarrollo de Expo:**
-   ```bash
-   npx expo start
-   ```
-
-4. **Visualizar en tu dispositivo:**
-   - Abre la app **Expo Go** en Android o iOS y escanea el código QR que aparece en la terminal.
-   - O presiona `a` para abrir en emulador de Android / `w` para abrir en el navegador web.
-
 ---
 
 ## 👨‍💻 Autor
