@@ -7,7 +7,8 @@ Bienvenido a **SpotiriApp**
 ## 📱 Captura de Pantalla de la Aplicación
 
 ![Captura de SpotiriApp](./screenshot.png)
-
+![Captura de SpotiriApp](./screenshot1.png)
+![Captura de SpotiriApp](./screenshot2.png)
 ---
 
 ## 📂 Arquitectura de las 3 Pantallas
