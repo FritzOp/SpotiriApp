@@ -55,7 +55,6 @@ colors: {
   spotifyDarkGray: '#181818',
   spotifyLightGray: '#282828',
 }
----
 
 ## 👨‍💻 Autor
 - **Estudiante:** Edgar Junior
