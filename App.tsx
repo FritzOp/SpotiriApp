@@ -1,3 +1,4 @@
+import "./global.css";
 import React, { useState } from 'react';
 import { View, Text, Pressable, SafeAreaView, StatusBar, Image, Platform } from 'react-native';
 import HomeScreen from './src/screens/HomeScreen';
