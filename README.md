@@ -55,8 +55,3 @@ colors: {
   spotifyDarkGray: '#181818',
   spotifyLightGray: '#282828',
 }
-
-## 👨‍💻 Autor
-- **Estudiante:** Edgar Junior
-- **Materia:** Desarrollo Móvil / Ingeniería de Sistemas
-- **Institución:** Universidad de La Guajira
